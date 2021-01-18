@@ -1,4 +1,6 @@
-### Hi there 👋
+i like thinking and stuff 
+reading is cool too 
+and programming 
 
 <!--
 **saranshsaini/saranshsaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
