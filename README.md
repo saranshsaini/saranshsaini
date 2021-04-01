@@ -1,4 +1,2 @@
-i like thinking about stuff <br />
-reading is cool too <br />
-and programming <br />
+What's the deal with airline food?
 
